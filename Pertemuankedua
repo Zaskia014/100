@@ -1,0 +1,23 @@
+package zaskiakia;
+
+public class z_ky {
+	public static void main(String[] args) {
+	    
+	//membuat variabel
+	
+	String nama = "zaskia";
+	int umur = 18;
+	double tinggi = 15.0;
+	
+	System.out.println("nama" + nama);
+	System.out.println("umur" + umur);
+	System.out.println("tinggi" + tinggi +"cm");
+	
+	
+	
+	
+	
+	
+	}
+	
+}
