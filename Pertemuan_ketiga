@@ -1,0 +1,13 @@
+package kiazasky;
+
+public class zaskia {
+	public static void main(String[] args) {
+		
+		//tipe data char
+		
+		char nilai = 'A';
+		char huruf = 'z';
+		
+		System.out.println("nilai");
+		System.out.println("huruf");
+		
