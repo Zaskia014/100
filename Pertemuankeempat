@@ -1,0 +1,17 @@
+package zaskia;
+import java.util.Scanner;
+
+public class kia {
+	public static void main(String[] args) {
+	Scanner input = new Scanner  (System.in);			
+	
+   System.out.print("nama : ");	
+   String nama = input.nextLine();
+   System.out.print("kelas :");
+   String kelas = input.nextLine();
+   System.out.print ("nim :");
+   String nim = input.newnextLine();
+   
+   	System.out.print("nama :" +" "+ nama);
+   	System.out.print("kelas :"+" " + kelas);
+  	 System.out.print("nim :"+" " + nim);
