@@ -1,0 +1,13 @@
+public class Main {
+    
+    public static void main(String[] args) {
+        
+        String nama = "zaskia";
+        int umur = 19;
+        double tinggi = 15.0;
+        float berat = 45.f;
+        
+        System.out.println(nama);
+        System.out.println(umur);
+        System.out.println(tinggi);
+        System.out.println(berat);
