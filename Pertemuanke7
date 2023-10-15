@@ -1,0 +1,25 @@
+package zaskia;
+import java.util.Scanner;
+public class Main {
+    
+    public static void main(String[] args) {
+        Scanner input = new Scanner (System.in);
+        
+        System.out.print("nama :");
+        String nama = input.nextLine();
+        System.out.print("umur :");
+        int umur = input.nextInt();
+        System.out.print("hobby :");
+        String hobby = input.nextLine();
+        System.out.print("jenis kelamin :");
+        char kelamin = 'p';
+        System.out.print("alamat :");
+        String alamat = input.nextLine();
+        
+        System.out.print(nama);
+        System.out.print(umur);
+        System.out.print(hobby);
+        System.out.print(kelamin);
+        System.out.print(alamat);
+        
+        
