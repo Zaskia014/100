@@ -1,0 +1,12 @@
+package zaskia;
+
+public class Main {
+    
+    public static void main(String[] args) {
+        
+        byte A = 18;
+        byte b = 20;
+        
+        System.out.println(A >= b);
+        System.out.println("umur sama");
+        
