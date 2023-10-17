@@ -1,0 +1,17 @@
+package zaskia;
+
+public class Main {
+    
+    public static void main(String[] args) {
+        
+        int hasil1 = 2+5+2;
+        int hasil2 = 2+2+2;
+        int hasil3 = 3+3+3;
+        
+        System.out.println(hasil1);
+        System.out.println(hasil2);
+        System.out.println(hasil3);
+        System.out.print("hasil1 "+" hasil2 "+" hasil3");
+        
+        
+        
