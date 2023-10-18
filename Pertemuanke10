@@ -1,0 +1,11 @@
+package zaskia;
+
+public class pertemuanke10 {
+    
+    public static void main(String[] args) {
+        
+        byte umur = 15;
+        byte usia = 40;
+        
+        System.out.print(umur >= usia);
+        
