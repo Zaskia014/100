@@ -1,0 +1,32 @@
+package zaskia;
+import java.util.Scanner;
+public class pertemuan11 {
+    
+    public static void main(String[] args) {
+        Scanner input = new Scanner (System.in);
+        
+        System.out.print("nama :");
+        String nama = input.nextLine();
+        System.out.print("umur :");
+        int umur = input.nextInt();
+        System.out.print("nim :");
+        String nim = input.nextLine();
+        System.out.print("kelas :");
+        String kelas = input.nextLine();
+        
+        
+        System.out.print(nama);
+        System.out.print(umur);
+        System.out.print(nim);
+        System.out.print(kelas);
+        
+        
+        
+        
+        
+        
+        
+        
+    }
+    
+}
