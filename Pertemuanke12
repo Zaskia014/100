@@ -1,0 +1,21 @@
+package pertemuan12;
+
+public class zaskiakia {
+    
+    public static void main(String[] args) {
+        
+        //deklarasi program
+        
+        int a,b,c,d;
+        
+        //proses
+        a=2;
+        b=3;
+        c=1;
+        
+        d=a+b+c;
+        
+        //output
+        
+        System.out.print("nilai d adalah "+d);
+        
