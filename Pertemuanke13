@@ -1,0 +1,25 @@
+package pertemuanke13;
+
+public class z_kia {
+    
+    public static void main(String[] args) {
+        
+        //proses
+        
+        String nama = "zaskia";
+        byte umur = 19;
+        char a = 'a';
+        double tinggi = 15.0;
+        boolean apakahbenar = true;
+        
+        //output
+        
+        System.out.println(nama);
+        System.out.println(umur);
+        System.out.println(a);
+        System.out.println(tinggi);
+        System.out.println(apakahbenar);
+        
+        
+        
+        
