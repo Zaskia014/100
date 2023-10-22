@@ -1,0 +1,19 @@
+package zaskia;
+
+public class pertemuanke14 {
+    
+    public static void main(String[] args) {
+        
+        
+          int a,b,c,d,e;
+        
+        //proses
+        a=2;
+        b=3;
+        c=2;
+        d=5;
+        e=a*b+c*d;
+        
+        //output
+        
+        System.out.print("umuar e adalah"+e);
