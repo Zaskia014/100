@@ -1,0 +1,33 @@
+package zaskia;
+
+import java.math.BigDecimal;
+
+public class pertemuanke16 {
+    
+    public static void main(String[] args) {
+        
+        
+        //deklarasi
+        
+        
+      BigDecimal nilaiA = new BigDecimal(12.999999999);
+      BigDecimal nilaiB = new BigDecimal(13.88888888888888);
+      BigDecimal nilaiC = new BigDecimal(14.7777777777777777);
+        
+        
+        //proses
+        
+        
+       BigDecimal hasiltambah = nilaiA.add(nilaiB);
+      		BigDecimal hasilkurang = nilaiB.subtract(nilaiA);
+       BigDecimal hasilkali = nilaiC.multiply(nilaiA); 
+       BigDecimal hasilbagi = nilaiA.divide(nilaiC);
+        
+        
+        //output
+        
+        
+        System.out.println("nilai\t:"+hasiltambah);
+        System.out.println("nilai\t:"+hasilkurang);
+        System.out.println("nilai\t:"+hasilkali);
+        System.out.println("nilai\t:"+hasilbagi);
