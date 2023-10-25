@@ -1,0 +1,25 @@
+package zaskia;
+
+public class pertemuanke17 {
+    
+    public static void main(String[] args) {
+        
+        
+  								  String nilai = "45";
+        
+   									 int nilaiInt = Integer.parseInt(nilai);
+        double nilaiDouble = Double.parseDouble(nilai);
+        byte nilaiByte = Byte.parseByte(nilai);
+        long nilaiLong = Long.parseLong(nilai);
+        short nilaiShort = Short.parseShort(nilai);
+        float nilaiFloat = Float.parseFloat(nilai);
+        
+        System.out.println("nilai\t:"+nilaiInt);
+        System.out.println("nilai\t:"+nilaiDouble);
+        System.out.println("nilai\t:"+nilaiByte);
+        System.out.println("nilai\t:"+nilaiLong);
+        System.out.println("nilai\t:"+nilaiShort);
+        System.out.println("nilai\t:"+nilaiFloat);
+        
+        
+        
