@@ -1,0 +1,15 @@
+package zaskia;
+
+public class pertemuanke18 {
+    
+    public static void main(String[] args) {
+        
+        int angka = 42;
+        String angkaString = Integer.toString(angka);
+        double angkaDouble = 3.14159;
+        String angkaDoubleString = Double.toString(angkaDouble);
+        
+        System.out.println("nilai\t:"+angkaString);
+        System.out.println("nilai\t:"+angkaDoubleString);
+        System.out.println("hasil penjumlahan angka\n"+angkaString + angkaDoubleString);
+        
