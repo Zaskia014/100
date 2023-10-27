@@ -1,0 +1,27 @@
+package zaskia;
+
+public class pertemuanke19 {
+    
+    public static void main(String[] args) {
+        
+        //deklarasi
+        
+        int angka = 45;
+        String nama = "zaskia";
+        double ipk = 3.8999;
+        
+        //update variabel
+        
+        angka = 100;
+        nama = "zaskia";
+        ipk = 3.9999;
+        
+        
+        //output
+        
+        System.out.println(angka);
+        System.out.println(nama);
+        System.out.println(ipk);
+        
+        
+        
