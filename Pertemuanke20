@@ -1,0 +1,25 @@
+ipackage zaskia;
+
+public class pertemuanke20 {
+    
+    public static void main(String[] args) {
+        
+        //deklarasi
+        
+        int angka = 42;
+        String nama = "zaskia";
+        
+        //proses
+        
+        angka = 100;
+        nama = "zaskia";
+        
+        
+        //output
+        
+        System.out.println(angka);
+        System.out.println(nama);
+        
+        
+        
+        
