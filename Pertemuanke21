@@ -1,0 +1,32 @@
+package zaskia;
+
+import java.util.Scanner;
+
+public class pertemuanke21 {
+    
+    public static void main(String[] args) {
+        
+        
+        //deklarasi
+        
+        Scanner Scanner = new Scanner(System.in);
+        
+        
+        //proses
+        
+        System.out.print("nama saya :");
+        String nama = Scanner.next();
+        System.out.print("umur saya :");
+        int umur = Scanner.nextInt();
+        System.out.print("nilai :");
+        int nilai = Scanner.nextInt();
+        
+        
+        
+        //output
+        
+        System.out.print("nama :"+nama);
+        System.out.print("umur :"+umur);
+        System.out.print("nilai:"+nilai);
+        
+        
