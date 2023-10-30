@@ -1,0 +1,26 @@
+ipackage zaskia;
+
+public class pertemuanke22 {
+    
+    public static void main(String[] args) {
+        
+        
+        //operator arikmatika/matematika
+        
+        byte penjumlahan = 5 + 6;
+        int pengurangan = 500 - 300;
+        long perkalian = 50 * 30;
+        short pembagian = 100/5;
+        short bagihasil = 100 % 50;
+        
+        
+        //output
+        
+        System.out.println(penjumlahan);
+        System.out.println(pengurangan);
+        System.out.println(perkalian);
+        System.out.println(pembagian);
+        System.out.println(bagihasil);
+        
+        
+        
