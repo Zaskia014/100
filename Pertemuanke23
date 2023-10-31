@@ -1,0 +1,32 @@
+package zaskia;
+
+public class pertemuanke23 {
+    
+    public static void main(String[] args) {
+        
+        //operatorpenugasan
+        byte penjumlahan = 10;
+        penjumlahan += 5;
+        
+        byte pengurangan = 20;
+        pengurangan -= 7;
+        
+        byte perkalian = 3;
+        perkalian *= 4;
+        
+        byte pembagian = 36;
+        pembagian /= 6;
+        
+        byte bagihasil = 15;
+        bagihasil %= 4;
+        
+        //output
+        
+        System.out.println(penjumlahan);
+        System.out.println(pengurangan);
+        System.out.println(perkalian);
+        System.out.println(pembagian);
+        System.out.println(bagihasil);
+        
+        
+        
