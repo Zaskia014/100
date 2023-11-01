@@ -1,0 +1,31 @@
+package zaskia;
+
+public class pertemuanke24 {
+    
+    public static void main(String[] args) {
+        
+        //operatorperbandingan
+        
+        
+        byte nilai1 = 5;
+        byte nilai2 = 5;
+        
+        
+        boolean sama = (nilai1 == nilai2);
+        boolean tidaksama = (nilai1 != nilai2);
+        boolean lebihbesar = (nilai1 > nilai2);
+        boolean kurangdari = (nilai1 < nilai2);
+        boolean lebihbesarsamadengan = (nilai1 >- nilai2);
+        boolean kurangsamadengan = (nilai1 <= nilai2);
+        
+        
+        System.out.println(sama);
+        System.out.println(tidaksama);
+        System.out.println(lebihbesar);
+        System.out.println(kurangdari);
+        System.out.println(lebihbesarsamadengan);
+        System.out.println(kurangsamadengan);
+        
+        
+        
+        
