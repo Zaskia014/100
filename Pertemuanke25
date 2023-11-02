@@ -1,0 +1,30 @@
+package zaskia;
+
+public class pertemuanke25 {
+    
+    public static void main(String[] args) {
+        
+        //deklarasi
+        
+        boolean kondisi1 = true;
+        boolean kondisi2 = false;
+        
+        //proses
+        
+        boolean hasil1 = kondisi1 && kondisi2;
+        boolean hasil2 = kondisi1 || kondisi2;
+        boolean hasil3 = kondisi1;
+        
+        
+        //output
+        
+        System.out.println(hasil1);
+        System.out.println(hasil2);
+        System.out.println(hasil3);
+        
+        
+        
+        
+        
+        
+    
