@@ -1,0 +1,29 @@
+package zaskia;
+
+public class pertemuanke26 { 
+    
+    public static void main(String[] args) {
+
+      //percabangan
+        
+        boolean lulus = true;
+        boolean tidaklulus = false;
+        
+          if (lulus == true) { 
+         															System.out.println("lulus ISC");
+              												    
+             
+      		   }else 
+      		       				System.out.println("tidak lulus ISC");
+      		       
+         
+    
+        
+      		   
+        
+         
+        
+      		   }     
+        
+    
+}
