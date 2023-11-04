@@ -1,0 +1,12 @@
+ipackage zaskiakia;
+
+public class pertemuanke27 {
+    
+    public static void main(String[] args) {
+        
+        
+        boolean lulus = true;
+        
+          if (lulus == true) { 
+         															System.out.println("anda lulus di ISC");
+        
