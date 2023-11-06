@@ -1,0 +1,14 @@
+package zaskia;
+
+public class pertemuanke29 {
+    
+    public static void main(String[] args) {
+        
+        byte angka = 10;
+        String pesan = (angka>5) ? "lebih besar dari 5" : "kurang dari sama dengan 5";
+        
+        System.out.println(pesan);
+        
+    }
+    
+}
