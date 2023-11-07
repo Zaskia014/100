@@ -1,0 +1,47 @@
+ipackage zaskia;
+
+public class pertemuanke30 {
+    
+    public static void main(String[] args) {
+        
+        //switch case
+        
+        String ekspresi = "senang";
+        switch (ekspresi) {
+            
+         			case1: 
+            System.out.println("marah");
+            break;
+            
+          	case2 :
+            System.out.println("sedih");
+            break;
+            
+           case3 :
+            System.out.println("bahagia");
+            break;
+            
+           case4 :
+            System.out.println("tertawa");
+            break;
+            
+         default:
+            
+            
+        
+         		  
+        
+        
+    
+    
+}
+        
+        
+        
+        
+        
+        
+        
+    }
+    
+}
