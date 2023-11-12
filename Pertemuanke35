@@ -1,0 +1,27 @@
+package zaskia;
+
+public class pertemuanke35 {
+    
+    public static void main(String[] args) {
+        
+        //perulangan while
+        
+       int hitung = 1;
+        while (hitung <= 10) { 
+        System.out.println(hitung);
+            hitung++;
+            
+        }
+         //perulangan do-while   
+            
+            byte angka = 1;
+            do{ 
+                System.out.println(angka);
+                angka++;
+                
+            }while(angka <= 15);
+     
+            
+    }
+    
+}
