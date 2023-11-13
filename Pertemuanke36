@@ -1,0 +1,20 @@
+package zaskia;
+
+public class pertemaunke36 {
+    
+    public static void main(String[] args) {
+        
+        
+        //perulangan while
+        
+       int hitung = 5;
+        while (hitung <= 20) { 
+        System.out.println(hitung);
+            hitung++;
+            
+        }
+         
+        
+    }
+    
+}
