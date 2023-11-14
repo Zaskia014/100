@@ -1,0 +1,15 @@
+package zaskia;
+
+public class pertemuanke37 {
+    
+    public static void main(String[] args) {
+        
+        //perulangan for
+        
+        for (int nilai = 5; nilai <=20; nilai++){
+            System.out.println(nilai);
+            
+        }
+    }
+    
+}
