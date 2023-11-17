@@ -1,0 +1,24 @@
+package pertemuanke40;
+
+public class z_kiakia {
+    
+    public static void main(String[] args) {
+      
+        //perualang for
+        
+        for (int mulai = 1;  mulai <= 20; mulai++) { 
+        
+        System.out.println(mulai+2);
+            
+            
+        
+        
+        }      
+        
+    }
+    
+    
+    
+    
+    
+}
